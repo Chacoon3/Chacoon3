@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a MSIS student at UMCP.
-- 👀 I’m interested in you know what
-- 🌱 I’m currently learning topics related to data science.
+- 👀 I’m interested in software development in C# and python, data science, and database development.
+- 🌱 I’m currently learning topics related to data science and SQL.
 - 💞️ I’m looking to collaborate on projects related to data science, back-end, game development, etc.
 - 📫 How to reach me:
 -         email: dyzily@foxmail.com
