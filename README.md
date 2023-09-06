@@ -14,6 +14,6 @@ I started actively and independently learning Mathematics and Computer Science w
 
 I enjoy the feeling of solidifying intangible thoughts into reality through writing codes.
 
-You can reach me at dyzily@foxmail.com.
+You can reach me at zzhang96@umd.edu.
 
 My favorite music is <b>Chaconne</b> by J. S. Bach.
