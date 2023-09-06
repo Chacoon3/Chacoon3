@@ -16,4 +16,4 @@ I enjoy the feeling of solidifying intangible thoughts into reality through writ
 
 You can reach me at zzhang96@umd.edu.
 
-My favorite music is <b>Chaconne</b> by J. S. Bach.
+My favorite music is <b>Chaconne</b> by J. S. Bach, which is the origin of my github ID (the correct one has been registered so I adopted a typo version).
