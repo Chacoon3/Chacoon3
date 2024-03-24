@@ -10,4 +10,4 @@ I am a developer focusing on web full-stack, quantitative trading, machine learn
 
 Should you wish to see my machine learning related projects please visit https://www.kaggle.com/zizh3ngzhang.
 
-You can reach me at zzhang96@umd.edu.
+You can reach me at zizh3ng@gmail.com
