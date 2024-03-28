@@ -6,8 +6,6 @@ Chacoon3/Chacoon3 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-I am a developer focusing on web full-stack, quantitative trading, machine learning, and Unity engine. 
-
-Should you wish to see my machine learning related projects please visit https://www.kaggle.com/zizh3ngzhang.
+I am a developer focusing on web full-stack, quantitative trading, and machine learning.
 
 You can reach me at zizh3ng@gmail.com
