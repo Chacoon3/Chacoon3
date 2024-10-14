@@ -7,5 +7,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 I am a developer focusing on web full-stack, quantitative trading, and machine learning.
-
-You can reach me at zizh3ng@gmail.com
