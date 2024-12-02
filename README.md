@@ -6,4 +6,8 @@ Chacoon3/Chacoon3 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-I am a developer focusing on web full-stack, quantitative trading, and machine learning.
+I am a developer focusing on web full-stack, quantitative trading, and machine learning. I have 5 yoe in software development, with C#, Python, and typescript being my primary languages. I have experiences building scalable app from scratch, architecting the whole system according to business requirements. 
+
+See the links below for examples of my web fullstack works that are already in production deployment:
+- https://bmgt407.rhsmith.umd.edu/~zizheng
+- https://alphascope.vercel.app/
